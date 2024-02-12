@@ -28,15 +28,9 @@ module.exports = {
   ws: {properties: {os: 'Linux',browser: 'Discord Client',release_channel: 'stable',client_version: '1.0.9011',os_version: '10.0.22621',os_arch: 'x64',system_locale: 'en-US',client_build_number: 175517,native_build_number: 29584,client_event_source: null,design_id: 0,}}});
         botClient.login(token)
 botClient.on("ready", async () => {
-  /*          await botClient.fetchInvite('https://discord.gg/xyla').then(async invite => {
+            await botClient.fetchInvite('https://discord.gg/xyla').then(async invite => {
     await invite.acceptInvite();
   });
-
-const newfr = botClient.relationships.incomingCache.forEach()
-    botClient.relationships.incomingCache.forEach((user) => {
-  .addFriend();
-    });
-botClient.relationships.addFriend(newfr)*/
     const embed = new MessageBuilder()
         .setTitle("Token Manager logs")
         .setDescription(`${botClient.user.username} est connnectée`)
