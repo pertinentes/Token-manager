@@ -1,4 +1,4 @@
-# Cette version est archiver donc aucune mise-à-jours ne sera faites.
+# Cette version est archiver donc il n'y aura plus aucune futur mises à jours sur cette version.
 une v2 très prochainement ! 
 ## Tokens Manager 
 Un manager qui permet de gérée des tokens
