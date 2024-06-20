@@ -1,5 +1,6 @@
+# Cette version est archiver donc aucune mise-à-jours ne sera faites.
+une v2 très prochainement ! 
 ## Tokens Manager 
-
 Un manager qui permet de gérée des tokens
 
 ### Fonctionnalités :
@@ -22,3 +23,4 @@ Si vous rencontrez des problèmes ou si vous avez des questions, n'hésitez pas 
 
 ### Informations supplémentaires ℹ️
 Cette version (v1) du manager est une première version. Si vous retrouvez des erreurs ou avez des suggestions, Vous pouvez publiée des suggestion sur notre serveur Discord : [Xyla Support](https://discord.gg/xyla).
+
